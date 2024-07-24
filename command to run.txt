@@ -1,0 +1,1 @@
+python Batchprocessing.py -i images -o result6.txt
